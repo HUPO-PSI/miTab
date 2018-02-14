@@ -55,6 +55,9 @@ The column contents should be as follows:
   1. **Stoichiometry for interactor B**.
   1. **Participant identification method for interactor A**: taken from the corresponding [PSI-MI controlled Vocabulary](http://www.ebi.ac.uk/ontology-lookup/browse.do?ontName=MI&termId=MI%3A0002&termName=participant%20identification%20method), and represented as databaseName:identifier(methodName), separated by "|". As the identification methods are taken from the PSI-MI ontology, the database name is 'psi-mi'. Participant detection method is recommended by MIMIx so it is recommended to always give this information. _Ex: psi-mi:"MI:0102"(sequence tag identification)_
   1. **Participant identification method for interactor B**.
+  1. **NEW Causal columns**.
+  1. **NEW Causal columns**.
+  1. **NEW Causal columns**.
 
 Empty columns should be represented with '-' to keep track of the columns.
 
